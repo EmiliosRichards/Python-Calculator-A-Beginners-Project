@@ -417,16 +417,16 @@ Contributions are welcome! There are many ways you can contribute to this projec
 - **Submitting Pull Requests**: Feel free to fork the repository and submit pull requests with bug fixes or feature additions.
 
 Please adhere to the following steps for your contributions to be considered:
-- Fork the repository and create your branch from `master`.
+- Fork the repository and create your branch from `main`.
 - If you've added code, ensure it is well documented and tested.
 - Ensure your commit messages clearly describe the changes.
 - Open a pull request with a clear title and description.
 
-For more information on how to contribute, please read the [CONTRIBUTING.md](LINK_TO_YOUR_CONTRIBUTING_GUIDE) guide in our repository.
+For more information on how to contribute, please read the [CONTRIBUTING.md](https://github.com/EmiliosRichards/Beginner-Project-Python-Calculator/blob/main/CONTRIBUTING.md) guide in our repository.
 
 ### Licence
 
-This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE_FILE_LINK](https://github.com/EmiliosRichards/Beginner-Project-Python-Calculator/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE_FILE_LINK](https://github.com/EmiliosRichards/Beginner-Project-Python-Calculator/blob/main/LICENSE)) file for details.
 
 ### Contact Information
 
