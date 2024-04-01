@@ -72,7 +72,7 @@ This covers the design phase of the project. Next, we will cover how to use the 
 
 **Prerequisites**: Python needs to be downloaded on your computer.
 
-**Installation**: Download `calculator.py`
+**Installation**: Download `calculator.py` (Found in the Files repository)
 
 Now using the Command Prompt on Windows or Terminal on macOS and Linux navigate your way to the directory (File) containing your downloaded `calculator.py`. From here you can type in the following command:
 
