@@ -1,4 +1,4 @@
-# Beginner Project: Python Calculator
+# Python Calculator: A Beginners Project
 
 Hello and welcome! This document will contain everything you will need to know about the conception, design, and creation of the snazziest calculator out there, the infamous Python Calculator!
 
