@@ -113,7 +113,7 @@ In the example we sum up the values 50 and 100. Once the calculator produces the
 
 ## Challenges - Post Build
 
-We will now discuss some of the challenges I faced when building the Python Calculator. I will explain the iterations Python Calculator went through, some of the problems I faced, and what adjustments I made to overcome them, as well as the decision process behind the format and code design.
+We will now discuss some of the challenges I faced when building the Python Calculator. I will explain the iterations Python Calculator went through, some of the problems I faced, and what adjustments I made to overcome them, as well as the decision process behind the format and code itself.
 
 Before we begin, I thought it worth mentioning, whether you’re a technical wizard or somebody who doesn’t code at all, I will try my best to explain everything as simply as possible. However, if you feel stranded in an ocean without a life float, feel free to skip to the last portion.
 
